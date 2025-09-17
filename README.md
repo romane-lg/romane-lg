@@ -15,8 +15,12 @@
 - Foodie adventures 🍣🥗 (always hunting for the best ceviche!)  
 
 <h2> 🤳 Connect with me:</h2>
+<a href="[linkedin]" target="_blank" style="background-color:pink; padding:4px; border-radius:4px; display:inline-block;">
+  <img align="left" alt="Romane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-[<img align="left" alt="Romane | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-pink?logo=linkedin&logoColor=white)]([linkedin])
+
 
 [linkedin]: https://www.linkedin.com/in/romane-lucas-girardville/
 
